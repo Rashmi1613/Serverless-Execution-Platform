@@ -244,14 +244,8 @@ http://127.0.0.1:8000/docs
 6. The execution output and metrics are returned to the client.
 
 ---
+---
 
-# Future Improvements
+# License
 
-* Support additional programming languages
-* Function versioning
-* Authentication & Authorization
-* Automatic container scaling
-* Kubernetes deployment
-* Prometheus & Grafana integration
-* CI/CD pipeline using GitHub Actions
-* Function scheduling and concurrency management
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
